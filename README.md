@@ -9,23 +9,20 @@
 ### ⚡ Tech Stack
 
 <!-- Programming Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>  
+![HTML](https://img.shields.io/badge/-HTML-000?logo=html5&logoColor=E34F26) 
+![CSS](https://img.shields.io/badge/-CSS-000?logo=css3&logoColor=1572B6) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=F7DF1E) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript&logoColor=3178C6) 
+![Python](https://img.shields.io/badge/-Python-000?logo=python&logoColor=3776AB) 
+![React](https://img.shields.io/badge/-React-000?logo=react&logoColor=61DAFB) 
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-000?logo=tailwindcss&logoColor=06B6D4) 
+![Pandas](https://img.shields.io/badge/-Pandas-000?logo=pandas&logoColor=150458) 
+![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white) 
+![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js&logoColor=339933) 
+![Git](https://img.shields.io/badge/-Git-000?logo=git&logoColor=F05032) 
+![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&logoColor=white) 
+![Postman](https://img.shields.io/badge/-Postman-000?logo=postman&logoColor=FF6C37) 
 
-<!-- Frameworks & Libraries -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" title="Node.js" alt="Node.js" width="40" height="40"/>  
-
-<!-- Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>
 
 ---
 ## 📫 Connect
