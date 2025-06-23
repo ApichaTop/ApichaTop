@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Apicha!
 
-<!--
-**ApichaTop/ApichaTop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Aspiring Full‑Stack Developer | Building robust and user‑friendly web applications.  
+💻 Currently learning: Next.js, TypeScript, TailwindCSS, Node.js.  
+🎯 Goal: To become a well‑rounded developer and build meaningful software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Stack
+![HTML](https://img.shields.io/badge/-HTML-000?logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/-CSS-000?logo=css3&logoColor=blue) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=yellow) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript&logoColor=blue) 
+![React](https://img.shields.io/badge/-React-000?logo=react&logoColor=61DAFB) 
+
+---
+
+## 📫 Connect
+- 💼 [LinkedIn](https://www.linkedin.com/)
+- 🌐 [Website](https://yourwebsite.com)
+
+---
