@@ -12,6 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=yellow) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript&logoColor=blue) 
 ![React](https://img.shields.io/badge/-React-000?logo=react&logoColor=61DAFB) 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" /> HTML
 
 ---
 
