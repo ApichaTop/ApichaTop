@@ -23,11 +23,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&logoColor=white) 
 ![Postman](https://img.shields.io/badge/-Postman-000?logo=postman&logoColor=FF6C37) 
 
-
+---
+![Gify](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJhaWc1a2tpam00eW52MnlkcHVlNXhhN21vZjR6dnJ0bXM3OWNrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif)
 ---
 ## 📫 Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/apicha-preechatanakun-a235122b0/)
-- 🌐 [Website]([https://yourwebsite.com](https://serene-puppy-b837c2.netlify.app/))
+- 🌐 [My portfolio](https://serene-puppy-b837c2.netlify.app/)
   
 ---
