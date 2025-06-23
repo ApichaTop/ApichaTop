@@ -16,7 +16,7 @@
 ---
 
 ## 📫 Connect
-- 💼 [LinkedIn](https://www.linkedin.com/)
-- 🌐 [Website](https://yourwebsite.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/apicha-preechatanakun-a235122b0/)
+- 🌐 [Website]([https://yourwebsite.com](https://serene-puppy-b837c2.netlify.app/))
 
 ---
